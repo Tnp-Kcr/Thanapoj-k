@@ -5,7 +5,7 @@
 👋 สวัสดีครับ! ผมเป็นนักศึกษาคอมพิวเตอร์ที่สนใจด้าน Web Development และ Data Science
 
 👋 hi,I'm a Computer Science student passionate about Web Development
-📍 เชี่ยวชาญ: HTML, CSS, PHP, MySQL, Python  
+📍 เชี่ยวชาญ: HTML, CSS, Java, PHP, MySQL, Python 
 
 ## 📌 Projects  
 ### 1️⃣ Responsive Website (HTML, CSS)  
