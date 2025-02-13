@@ -17,7 +17,13 @@
 🔗 [GitHub Repo](https://github.com/Tnp-Kcr/php-detail)  
 - ระบบจัดการข้อมูลตัวอักษร 
 - ใช้ PHP และฐานข้อมูล MySQL
-- A CRUD application for managing student data.  
+- A CRUD application for managing student data.
+
+### 3️⃣ Android Studio Project (Java)
+🔗 [GitHub Repo](https://github.com/Tnp-Kcr/ui-android)
+
+- ใช้ Java ในการเขียนและทำพัฒนาเป็นแอปพลิเคชัน
+- Use Java to write and develop applications.
 
 ## 📬 Contact  
 📧 Email: thanapoj-k@rmutp.ac.th
